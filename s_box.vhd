@@ -1,8 +1,8 @@
 -- Author           : Salman Akhtar
 -- ENTITY           : s_box
 -- DESCRIPTION      : This is the lookup table used in the Substitution Byte.The substitution byte (S-box) serves the purpose of 
-                       bringing confusion to the data that is to be encrypted. The S-box is a 16 by 16 matrix box containing a total
-                       of 256 byte hexadecimal and indexed in a row and column pattern.
+--                    bringing confusion to the data that is to be encrypted. The S-box is a 16 by 16 matrix box containing a total
+--                    of 256 byte hexadecimal and indexed in a row and column pattern.
 
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
