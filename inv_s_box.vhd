@@ -1,4 +1,3 @@
--- Author           : Salman Akhtar
 -- ENTITY           : inv_s_box
 -- DESCRIPTION      : This is the lookup table used in the Inverse SubByte.Inverse substitute byte transformation, called InvSubBytes, makes use of 
 --                    the inverse of S-box.
